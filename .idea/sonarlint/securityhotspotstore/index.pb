@@ -155,3 +155,17 @@ _volley-schedule-backend/src/main/java/ru/artzhelt/volleyschedule/VolleySchedule
 [volley-schedule-backend/src/main/java/ru/artzhelt/volleyschedule/gym/GymRestController.java,0\7\07c781dacc3a49a0b60362ce297778b49084ea26
 m
 =volley-schedule-backend/.mvn/wrapper/maven-wrapper.properties,0\e\0e76e23762f717ecc657236cfbcfad87b6f1fe91
+R
+"volley-schedule-backend/Dockerfile,e\f\efb8f9175bb6497775224d742dd20682e7e6e77d
+X
+(volley-schedule-backend/README.Docker.md,4\f\4f32e622d6b0ac89d57a804d8a4327353b8906ed
+U
+%volley-schedule-backend/.dockerignore,b\2\b2f959d1136a268a90ccc044bf8a9aa3a1840228
+G
+docker-compose.dev.yaml,1\c\1cf163c253b1ca22fef50fcf45b7af77b0e4eaab
+C
+docker-compose.yaml,e\f\ef8def03dc8f162799089e9b5f4321201c8810d5
+S
+#volley-schedule-frontend/Dockerfile,a\a\aa865896d4ac232e21cb8e4cf12a201e1214683f
+V
+&volley-schedule-frontend/.dockerignore,6\9\69f90bf2b2ff552dfa83b06fafffac63e7ea22a4

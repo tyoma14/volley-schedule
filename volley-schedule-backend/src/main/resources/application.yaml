@@ -5,3 +5,5 @@ spring:
     init:
       mode: always
       data-locations: classpath:/schema.sql
+  jpa:
+    defer-datasource-initialization: true
