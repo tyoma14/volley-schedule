@@ -30,6 +30,8 @@ COPY . .
 RUN npm run build-only
 
 # Start Apache HTTP Server with built content
-FROM httpd:2.4 AS prod
+FROM httpd:2.4-alpine AS prod
+
+COPY httpd.conf /usr/local/apache2/conf/httpd.conf
 
 COPY --from=build /usr/src/app/dist /usr/local/apache2/htdocs/
